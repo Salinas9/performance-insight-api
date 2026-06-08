@@ -1,0 +1,12 @@
+.git/
+.vs/
+.venv/
+__pycache__/
+.pytest_cache/
+bin/
+obj/
+artifacts/
+tools/
+docs/rendered/
+*.log
+*.user

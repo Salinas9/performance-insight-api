@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11819.183 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceInsight.Api", "PerformanceInsight.Api.csproj", "{B16BE606-68FA-3AC6-DC72-F72D9BB957E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16BE606-68FA-3AC6-DC72-F72D9BB957E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16BE606-68FA-3AC6-DC72-F72D9BB957E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16BE606-68FA-3AC6-DC72-F72D9BB957E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16BE606-68FA-3AC6-DC72-F72D9BB957E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {464A9A33-6023-45C5-A15F-1F18F1F28D9D}
+	EndGlobalSection
+EndGlobal
