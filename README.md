@@ -18,6 +18,7 @@ La API permite:
 api/
   index.py
 app/
+  index.py
   main.py
   models/
   routes/
@@ -130,7 +131,7 @@ La estructura está preparada para **Vercel** con `FastAPI`.
 
 Archivos clave:
 
-- `api/index.py`
+- `index.py`
 - `requirements.txt`
 - `vercel.json`
 - `.python-version`
